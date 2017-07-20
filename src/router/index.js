@@ -13,7 +13,7 @@ import pay from '@/components/pay'
 Vue.use(Router)
 
 const router = new Router({
-	mode: 'history',
+	/*mode: 'history',*/
 	routes: [{
 			path: '/',
 			name: 'Hello',

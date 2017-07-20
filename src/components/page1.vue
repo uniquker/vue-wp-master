@@ -1,6 +1,6 @@
 <template>
   <div class="hello">
-  	<img src="/static/logo.png">
+  	<img src="../../static/logo.png">
     <h1>{{ msg }}</h1>
     <button v-on:click="logout">注销</button>
     <p>pay password test ,<router-link :to="'/pay'">click here!</router-link></p>
