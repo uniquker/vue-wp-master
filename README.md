@@ -18,4 +18,7 @@ npm run build
 npm run build --report
 ```
 
+项目连接地址：https://uniquker.github.io/vue-wp-master/dist/#/
+
+
 For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
